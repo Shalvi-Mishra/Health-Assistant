@@ -1,0 +1,1 @@
+Streamlit run "/Users/shalvimishra/Desktop/multiple_prediction_system/app.py"
